@@ -22,10 +22,9 @@ body {
 }
 
 img {
-    res
-    max-width: auto;
-    height: 250px;
-    border: 5px solid rgb(45, 48, 45)
+    max-height: 300px;
+    max-width: 50%;
+    flex: 25%;
 }
 
 table {
@@ -43,6 +42,11 @@ table {
 }
   
 .column {
-    flex: 25%%;
+    flex: 25%;
     padding: 5px;
+    align-items: center;
+}
+
+.yt {
+    align-content: center;
 }
