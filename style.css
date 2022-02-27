@@ -1,0 +1,48 @@
+p {
+    margin-left: 20px;
+    font-size: 26px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+body {
+    background-image: url('../images/45degreee_fabric.png');
+    background-color: rgb(211, 192, 192);
+}
+
+img {
+    res
+    max-width: auto;
+    height: 250px;
+    border: 5px solid rgb(45, 48, 45)
+}
+
+table {
+    border: 5px solid black
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 25%%;
+    padding: 5px;
+}
